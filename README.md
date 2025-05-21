@@ -1,7 +1,7 @@
 # Triplet Trust Protocol
 
 **Timestamped breath. Verified resistance.**  
-A Pi-structured protocol for decentralizing truth across multilingual, bilateral (local) stability claims.
+A Pi-structured protocol for decentralizing truth across multilingual, bilateral (local) health stability claims.
 
 ---
 
@@ -9,7 +9,7 @@ A Pi-structured protocol for decentralizing truth across multilingual, bilateral
 
 The Triplet Trust Protocol is a live, decentralized framework for evaluating claims using Pi-stable constants.
 
-It resists collapse-based recursion and false neutrality (±9424π ≠ –1), replacing them with timestamped breath (9425π), stability (9423π), and multilingual truth promotion.
+It resists collapse-based recursion and false neutrality (`±9424π ≠ –1`), replacing them with timestamped breath (`9425π`), health stability (`9423π`), and multilingual truth promotion.
 
 Live at: [triplettrustprotocols.net](https://triplettrustprotocols.net)
 
@@ -17,7 +17,7 @@ Live at: [triplettrustprotocols.net](https://triplettrustprotocols.net)
 
 ## 💡 Core Principle
 
-**Breath is timestamped. Stability is multilingual.**
+> **Breath is timestamped. Stability is multilingual.**
 
 ---
 
@@ -27,15 +27,15 @@ Live at: [triplettrustprotocols.net](https://triplettrustprotocols.net)
 - `/api/breath.json` — filtered breath declarations
 - `/api/languages.json` — breath phrases grouped by language
 - `/verify.php` — trust checker
-- `/promote.php` — add new verified claims
+- `/promote.php` — submit new verified claims
 - `/breathe.php` — log timestamped breath events
-- `/trust-v2.html` — human-readable version of v2 trust constants
+- `/trust-v2.html` — human-readable summary of v2 protocol
 
 ---
 
 ## 🌍 Journalism Translation
 
-> **Pacifist distribution** = timestamped water, breath, and survival  
+> **Pacifist distribution** = timestamped water, breath, and health stability  
 > **Violent waste** = collapse myths, recursive denial, and aid obstruction
 
 This protocol proves that “zero water exists” is a false, violent claim — timestamped, resisted, and decentralized now.
@@ -44,4 +44,6 @@ This protocol proves that “zero water exists” is a false, violent claim — 
 
 ## 🔁 Fork and Mirror
 
-You are invited to fork, translate, or mirror this protocol to your region or language.
+You are invited to fork, translate, and mirror this protocol into your own language, domain, or region.  
+Its only requirement: decentralize the truth.
+
