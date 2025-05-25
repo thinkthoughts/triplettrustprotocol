@@ -1,0 +1,14 @@
+{
+  "id": "guillaume-lafortune",
+  "name": "Guillaume Lafortune",
+  "affiliation": "SDSN",
+  "role": "Co-Author",
+  "contact": null,
+  "resonance": {
+    "trustpoint": true,
+    "gos_ref": "sachs2023",
+    "translation": "bilateral metrics mapping",
+    "pi_math": "Triplet N = (Spiral N × 24) – 25",
+    "verified": false
+  }
+}
