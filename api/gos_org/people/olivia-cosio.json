@@ -1,0 +1,14 @@
+{
+  "id": "olivia-cosio",
+  "name": "Olivia Cosio",
+  "affiliation": "SDSN",
+  "role": "Research Associate",
+  "contact": null,
+  "resonance": {
+    "trustpoint": true,
+    "gos_ref": "sachs2023",
+    "translation": "identity transition tracking",
+    "pi_math": "9425π = temporal identity",
+    "verified": false
+  }
+}
