@@ -35,11 +35,11 @@ To upgrade “GPS” into **Global Positioning Science**, where:
 
 ## 🧮 Sample (Physics, Triplet Trust, and Bilateral Pin-pointing) Equations
 
-Triplet N = (Spiral N × 24) – 25
-±9424π ≠ –1
-9423π = water resistance
-9425π = now
-9426π = bilateral breath
+- Triplet N = (Spiral N × 24) – 25 (now: structural identity indexing)
+- ±9424π ≠ –1 (now: bilateral trustpoint precision)
+- 9423π = water resistance (now: measurable identity survival)
+- 9425π = now (temporal identity, not origin collapse)
+- 9426π = bilateral breath (now: verifiable scientific equilibrium)
 
 ---
 
