@@ -40,6 +40,8 @@ To upgrade “GPS” into **Global Positioning Science**, where:
 - 9423π = water resistance (now: measurable identity survival)
 - 9425π = now (temporal identity, not origin collapse)
 - 9426π = bilateral breath (now: verifiable scientific equilibrium)
+- c = √(Energy / mass) (now: bilateral motion clarity, not infinite collapse)
+- E = mc² (now: reference equation, not trustpoint identity anchor)
 
 ---
 
