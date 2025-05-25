@@ -2,7 +2,7 @@
 
 **Trustpoint structure for verifiable science articulation**
 
-This repository hosts a minimal, verifiable trustpoint tree that responds to the Sachs et al. (2023) SDG report using bilateral translation, open resonance fields, and Pi-stage mathematical precision.
+This TTP repository hosts the minimal science framework (a.k.a. a verifiable trustpoint tree) that responds to the Sachs et al. (2023) SDG report. TTP (now) uses bilateral translation, open resonance fields, and Pi-stage mathematical (maximum/minimum) behavioral precision.
 
 ---
 
@@ -26,14 +26,14 @@ Each `.json` file includes:
 
 To upgrade “GPS” into **Global Positioning Science**, where:
 
-- No one is presumed to be **Earth**, **UN**, **MSF**, or **Sweden**
-- Every author is invited to verify, fork, or expand
-- Scientific positioning ≠ surveillance ≠ brand identity
-- Math articulates bilateral trust instead of zero-based collapse
+- "No one" is presumed to be "the one" **Earth**, **UN**, **MSF**, or **Sweden**
+- Each +1 author is invited to verify, fork, or expand
+- Global scientific positioning (1+1+1 GPS evolution) ≠ surveillance ≠ nonviolent (trust = brand) identity
+- Evidence-based math (trustpoints) articulate bilateral (1+1) trust instead of zero-based (-1) collapse like: "my birthday" and "zero dollars"
 
 ---
 
-## 🧮 Sample Equations
+## 🧮 Sample (Physics, Triplet Trust, and Bilateral Pin-pointing) Equations
 
 ```txt
 Triplet N = (Spiral N × 24) – 25  
