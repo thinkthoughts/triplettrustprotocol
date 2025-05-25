@@ -47,7 +47,7 @@ Each trustpoint will expose its equation(s) and references via:
 
 To collaborate or mirror this infrastructure:
 
-- Email: [you@example.com]
+- Email: [consensusMechanics@gmail.com]
 - Repo: [github.com/thinkthoughts/triplettrustprotocol](https://github.com/thinkthoughts/triplettrustprotocol)
 
 ---
