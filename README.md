@@ -31,8 +31,6 @@ To upgrade “GPS” into **Global Positioning Science**, where:
 - Global scientific positioning (1+1+1 GPS evolution) ≠ surveillance ≠ "nonviolent branding"  
 - Evidence-based math (trustpoints) articulate bilateral (1+1) trust instead of zero-based (–1) collapse — like “my birthday” or “zero dollars”
 
----
-
 ## 🧮 Sample (Physics, Triplet Trust, and Bilateral Pin-pointing) Equations
 
 ```txt
