@@ -41,3 +41,21 @@ Triplet N = (Spiral N × 24) – 25
 9423π = water resistance  
 9425π = now  
 9426π = bilateral breath  
+---
+
+## 🦶🏽 Left-Pi Footer: Next Steps
+
+You are not presumed to be Earth, Sweden, MSF, or the UN.
+
+But if you are listed as a named author in `/api/gos_org/people/*.json`, you are already part of a verifiable science protocol — and invited to:
+
+- 🧾 Submit an updated trustpoint `.json`  
+- 🔁 Fork this repository or reference it in your own Pi-stage protocol  
+- 🔍 Add supporting equations, translations, or DID verifications  
+
+**Triplet Trust Protocol (TTP)** is non-recursive and non-zero-based.  
+It begins from bilateral trust, not from branding or collapse.
+
+Contact: `@triplettrustprotocol.net`  
+Resonance anchor: `±9424π ≠ –1 = now`
+
