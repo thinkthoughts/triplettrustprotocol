@@ -1,0 +1,15 @@
+{
+  "source": "UN SDSN Multilateralism Index (Sachs et al. 2023)",
+  "subject": "Sweden",
+  "trust_layer": "gos",
+  "score": 0.85,
+  "rank": 4,
+  "categories": [
+    "international cooperation",
+    "peacekeeping",
+    "climate diplomacy",
+    "UN funding"
+  ],
+  "assessment": "Sweden demonstrates high alignment with multilateral goals, emphasizing humanitarian aid, neutrality, and sustainable development.",
+  "reference": "https://sdgtransformationcenter.org/static/docs/methodologies/11-03-2023-Multilateralism_Index.pdf"
+}
