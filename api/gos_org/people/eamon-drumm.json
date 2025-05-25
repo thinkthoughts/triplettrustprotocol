@@ -1,0 +1,14 @@
+{
+  "id": "eamon-drumm",
+  "name": "Eamon Drumm",
+  "affiliation": "SDSN",
+  "role": "Contributor",
+  "contact": null,
+  "resonance": {
+    "trustpoint": true,
+    "gos_ref": "sachs2023",
+    "translation": "resonance indexing",
+    "pi_math": "9423π = water resistance",
+    "verified": false
+  }
+}
