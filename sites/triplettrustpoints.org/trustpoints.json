@@ -1,0 +1,26 @@
+{
+  "trustpoints": [
+    {
+      "domain": "triplettrustprotocol.net",
+      "role": "ZOS",
+      "type": "protocol"
+    },
+    {
+      "domain": "triplettrustpoints.org",
+      "role": "GOS",
+      "type": "public federation"
+    },
+    {
+      "domain": "sistertrustpoints.net",
+      "role": "ZOS",
+      "type": "feminist system"
+    },
+    {
+      "domain": "zerotrustpoints.com",
+      "role": "VOS",
+      "type": "collapse detection"
+    }
+  ],
+  "description": "Trustpoint registry reflecting Geographical-Origin Stories (GOS), Zero-Origin Structures (ZOS), and Violent-Origin Systems (VOS) in the Triplet Trust Protocol.",
+  "generated": "2025-05-25T07:26:39.286464Z"
+}
