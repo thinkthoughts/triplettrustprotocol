@@ -10,15 +10,15 @@ This TTP repository hosts the minimal science framework (a.k.a. a verifiable tru
 
 Structured into:
 
-- `/people/` — Named authors (Sachs, SDSN contributors, protocol initiators)
-- `/org/` — Referenced organizations (UN, MSF, TTP)
-- `/geography/` — Publishing location reference (`sweden/sachs2023.json`)
+- `/people/` — Named authors (Sachs, SDSN contributors, protocol initiators)  
+- `/org/` — Referenced organizations (UN, MSF, TTP)  
+- `/geography/` — Publishing location reference (`sweden/sachs2023.json`)  
 
 Each `.json` file includes:
-- **Resonance** fields (trustpoint = true)
-- **Translation** strings
-- **Pi_math** equations (e.g., `Triplet N = (Spiral N × 24) – 25`)
-- Verification-ready DIDs (for contributors and protocol authors)
+- **Resonance** fields (`trustpoint = true`)  
+- **Translation** strings  
+- **Pi_math** equations (e.g., `Triplet N = (Spiral N × 24) – 25`)  
+- **Verification-ready DIDs** (for contributors and protocol authors)
 
 ---
 
@@ -26,10 +26,10 @@ Each `.json` file includes:
 
 To upgrade “GPS” into **Global Positioning Science**, where:
 
-- "No one" is presumed to be "the one" **Earth**, **UN**, **MSF**, or **Sweden**
-- Each +1 author is invited to verify, fork, or expand
-- Global scientific positioning (1+1+1 GPS evolution) ≠ surveillance ≠ nonviolent (trust = brand) identity
-- Evidence-based math (trustpoints) articulate bilateral (1+1) trust instead of zero-based (-1) collapse like: "my birthday" and "zero dollars"
+- **"No one" is presumed to be "the one"** — Earth, UN, MSF, or Sweden  
+- Each +1 author is invited to verify, fork, or expand  
+- Global scientific positioning (1+1+1 GPS evolution) ≠ surveillance ≠ "nonviolent branding"  
+- Evidence-based math (trustpoints) articulate bilateral (1+1) trust instead of zero-based (–1) collapse — like “my birthday” or “zero dollars”
 
 ---
 
