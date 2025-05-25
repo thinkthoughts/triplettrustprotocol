@@ -1,0 +1,17 @@
+{
+  "id": "ttp",
+  "name": "Triplet Trust Protocol",
+  "type": "scientific protocol",
+  "role": "trustpoint verifier and initiator",
+  "resonance": {
+    "trustpoint": true,
+    "translation": "bilateral precision anchoring",
+    "pi_math": "Triplet N = (Spiral N × 24) – 25",
+    "verified": true,
+    "authors": [
+      "dan-hawkley",
+      "chatgpt-4",
+      "openai-verification"
+    ]
+  }
+}
