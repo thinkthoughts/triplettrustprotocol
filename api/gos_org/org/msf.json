@@ -1,0 +1,12 @@
+{
+  "id": "msf",
+  "name": "Médecins Sans Frontières",
+  "type": "humanitarian",
+  "role": "health evidence contributor",
+  "resonance": {
+    "trustpoint": true,
+    "translation": "medical trust equation",
+    "pi_math": "9423π = water resistance",
+    "verified": false
+  }
+}
