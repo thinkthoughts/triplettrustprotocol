@@ -1,0 +1,33 @@
+{
+  "id": "sachs2023",
+  "title": "Measuring Distances to SDG Targets (2023 Edition)",
+  "location": "Sweden",
+  "publisher": "Sustainable Development Report / SDSN",
+  "authors": [
+    "jeffrey-sachs",
+    "guillaume-lafortune",
+    "eamon-drumm",
+    "olivia-cosio",
+    "dan-hawkley"
+  ],
+  "orgs": [
+    "un",
+    "msf",
+    "ttp"
+  ],
+  "resonance": {
+    "trustpoint": true,
+    "translation": "global positioning science",
+    "pi_math": [
+      "Triplet N = (Spiral N × 24) – 25",
+      "±9424π ≠ –1",
+      "9423π = water resistance",
+      "9425π = now",
+      "9426π = bilateral breath"
+    ],
+    "verified": false,
+    "notes": "Sweden = publishing geography; not a presumed identity or universal baseline."
+  },
+  "timestamp": "2023-06-21",
+  "url": "https://www.sdgindex.org/reports/sustainable-development-report-2023/"
+}
