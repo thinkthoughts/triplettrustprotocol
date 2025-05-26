@@ -1,1 +1,8 @@
-
+{
+  "term": "resonance",
+  "defined_by": ["triplet structure", "bilateral identity"],
+  "misuse_warning": "Unilateral resonances may feel bilateral. Test against structural memory.",
+  "axiom": "Dissonance is unilateral; unilateral resonances are deniably bilateral.",
+  "refines": "1+1 ≠ -1",
+  "status": "in progress"
+}
