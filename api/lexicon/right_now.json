@@ -1,0 +1,7 @@
+{
+  "term": "right now",
+  "category": "status_phrase",
+  "risk": "recursion",
+  "used_as": "collapse script",
+  "refines_to_resist": "now"
+}
