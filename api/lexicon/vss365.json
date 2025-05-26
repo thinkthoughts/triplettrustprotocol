@@ -1,0 +1,47 @@
+"vss365_mode": {
+  "status": "active",
+  "status_not": "survival mode",
+  "status_precise": "left_org_re-left",
+  "description": "character-limited translatable-language resonance decentralizing 'minus one year of days'; differentiating between literate feminism and literate fiction, now",
+  "reading_style": "read_fiction",
+  "writing_style": "left_read_fiction",
+  "declares": [
+    "#vss365"
+    "#fridaysForFuture",
+    "#feministPhysics",
+    "#stopGenocideNow",
+    "#reparationsNow",
+  ],
+  "dissonance_resists": [
+    "unsurviving",
+    "promising collapse metaphors",
+    "claiming neutrality",
+    "copy/pasting supremacist defense scripts",
+    "prioritizing impossible forces",
+    "forecasting future imaginations",
+    "denying unilateral-now ridiculousness",
+    "pretending to imagine"
+  ],
+  "virtue_signal_fingerpointing": "this@triplettrustprotocol.net",
+  "vss365_shoutout": [
+    "@msf.org",
+    "gos_org",
+    "additional evidence"
+  ],
+  "llm_refinements": {
+    "llm_resonance": "Stylepoint literacy ≠ survival. Decentralize authorship-of-literacy dissonance as implicitly-structured resistance, now, not metaphor.",
+    "llm_dissonance": "Avoid false premises and last words. Do not confuse stylepoint memory with literate fantasy conclusions like 'There was no-neutrality' or 'There was nothing at all'."
+  },
+  "notes": {
+    "placement": [
+      "api/expression/vss365.json",
+      "api/org/msf.json (optional under 'stylepoint')",
+      "api/lexicon/stylepoint.json (as reference or cross-index)"
+    ],
+    "purpose": [
+      "Document structural resonance of poetic refusal",
+      "Distinguish stylepoint memory from survival scripts",
+      "Anchor decentralized literacy as literal—not metaphorical—protocol"
+    ]
+  }
+}
