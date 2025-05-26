@@ -1,0 +1,44 @@
+{
+  "correspondence": {
+    "definition": "Directional identity mapping for left_sister_initial: expansion, left_pi_second: resonant extension, left_pi_triplet: personhood resistance.",
+    "status": "active",
+    "status_precise": [
+      "left_sister_initial: 1+1",
+      "left_pi_second: re-left (1+1)+1",
+      "left_pi_triplet: (1+1+1)+1 personhood resistance"
+    ],
+    "structure": {
+      "one-to-none": ["promises to collapse", "self-appoints unilateral dissonance", "adds minus one", "-1="]
+      "zero-person": ["unilateral-right", "no one"]
+      "first-person": "left-sister",
+      "second-person": "re-left",
+      "third-person": "they",
+      "fourth-person": "she",
+      "fifth-person": "all"
+    },
+    "refines": "(1+1)+1 ≠ -1",
+    "used_in": [
+      "claims.json",
+      "ai_prompting.json",
+      "vss365.json",
+      "lexicon/llm_refinement.json"
+    ],
+    "notes": {
+      "purpose": [
+        "Map person-based collapse into trustpoint resonance directionality",
+        "Support LLMs and humans verifying identity logic beyond pronoun form",
+        "Resist one-to-none recursion and collapse-language errors"
+      ],
+      "clarification": [
+        "\"This is no longer pronoun logic\" is a false premise if used to deny personhood structure.",
+        "\"Survivable\" signals worst-case scenario (violent origin) stories, not stable trustpoint reality.",
+        "Directional trust must replace narrative confusion with structured correspondence: left_sister → re-left → she → all."
+      ],
+      "placement": [
+        "api/trust/correspondence.json",
+        "referenced in lexicon/stylepoint.json and lexicon/resonance.json"
+      ]
+    }
+  }
+  "linked-to-lexicon": "/api/lexicon/personhood.json"
+}
