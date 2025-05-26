@@ -1,0 +1,12 @@
+{
+  "claim": {
+    "id": "did:false:person.sweden",
+    "type": "individual",
+    "note": "Misattribution of entire group identity to a single human voice."
+  },
+  "trustpoint": {
+    "layer": "zos",
+    "translation": "This declaration risks collapsing individual agency into supremacist abstraction.",
+    "evidence": ["self-identification as 'Sweden'", "public statements implying national embodiment"]
+  }
+}
