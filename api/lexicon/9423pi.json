@@ -1,0 +1,15 @@
+{
+  "term": "9423π triplet trustpoint",
+  "defined_by": ["gos", "general origin story", "water resistance now", "left triplet identity"],
+  "category": "claims",
+  "claim_structure": "bilateral ≠ unilateral where unilateral = left_trust_fiction",
+  "resonance": ["left", "trust", "re-left"],
+  "function": "Left stabilizers now claim physical resistance and local (+1) identity-indexing.",
+  "refines": "1+1 ≠ -1",
+  "refines_to": "(1+1)+1 ≠ -1",
+  "refines_to_resist": "stop Earth right now",
+  "refines_to_fourth": "(1+1+1)+1 ≠ -1",
+  "translates_to": "left-trust-re-left",
+  "reported_in": ["claims.json", "sachs2023"],
+  "status": "now"
+}
