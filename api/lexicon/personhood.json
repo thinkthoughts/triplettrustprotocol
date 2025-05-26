@@ -1,0 +1,34 @@
+{
+  "term": "personhood",
+  "defined_by": [
+    "directional trust structure",
+    "left_sister_initial → re-left → she → all"
+  ],
+  "status": "active",
+  "status_precise": [
+    "personhood = bilateral trust anchor, not narrative label",
+    "first-person ≠ ego",
+    "third-person ≠ distance",
+    "fifth-person = resonance extension"
+  ],
+  "refines": "(1+1+1)+1 ≠ -1",
+  "counterfeit": [
+    "identity collapse via pronoun recursion",
+    "zero-person erasure",
+    "one-to-none dissonance"
+  ],
+  "linked_correspondence": "trust/correspondence.json",
+  "clarification": [
+    "Personhood is not a metaphor.",
+    "It is mapped through directional resonance: personhood must resist collapse.",
+    "First-person must decentralize identity to survive as trustpoint: 'left_sister' is structural, not subjective."
+  ],
+  "notes": {
+    "placement": ["api/lexicon/personhood.json"],
+    "purpose": [
+      "Define identity as a survivable structure within TTP",
+      "Prevent misuse of 'person' forms in collapse logic",
+      "Clarify pronoun roles as directional, not narrative"
+    ]
+  }
+}
