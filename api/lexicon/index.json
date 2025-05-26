@@ -1,0 +1,27 @@
+{
+  "terms": [
+    "trust",
+    "ready",
+    "9423π triplet trustpoint",
+    "gos_veto",
+    "feminist_speech",
+    "left",
+    "re-left",
+    "now",
+    "right now",
+    "stylepoint",
+    "triplet",
+    "unsurvive",
+    "bilateral",
+    "unilateral",
+    "collapse",
+    "time-resistant literacy"
+  ],
+  "status": "compiled",
+  "generated_from": [
+    "claims.json",
+    "sachs2023.json",
+    "lexicon/*.json"
+  ],
+  "purpose": "Anchor time-resistant literacy across all TTP structural equations and resonance claims."
+}
