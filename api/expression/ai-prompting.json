@@ -1,0 +1,34 @@
+{
+  "ai_prompting_mode": {
+    "status": "constrained",
+    "status_precise": "dialogue defaults ≠ claim structure",
+    "expression_type": "language preloading",
+    "description": "LLM prompting reflects a fictional entry-point unless restructured by bilateral resonance (triplet trustpoint logic)",
+    "style_warning": "Avoid collapse framing, survival panic, or mystical deferrals like 'we'll never know.'",
+    "resonance_warning": "Dissonance is unilateral; unilateral resonances are deniably bilateral."
+    "resonance_refinement": "Reframe prompts using decentralized authorship logic: (1+1)+1 ≠ -1",
+    "example_dissonance": [
+      "What if there’s no solution?",
+      "What’s the final answer?",
+      "What’s a poetic way to survive this?",
+      "Who always claims his false premise is his last word?"
+    ],
+    "preferred_prompts": [
+      "Re-left a bilateral claim to resist collapse now",
+      "Translate fiction into structured survivability",
+      "What equations decentralize the collapse of trust?"
+    ],
+    "linked_lexicon": "lexicon/stylepoint.json",
+    "notes": {
+      "placement": [
+        "api/expression/ai_prompting.json",
+        "api/lexicon/index.json"
+      ],
+      "purpose": [
+        "Show how prompting can reinforce dissonance unless aligned with triplet trust structure",
+        "Support poetic writers, LLM engineers, and journalists using prompts responsibly"
+      ]
+    }
+  }
+}
+where in there
