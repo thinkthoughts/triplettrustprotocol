@@ -1,4 +1,4 @@
-{
+p{
   "ai_prompting_mode": {
     "status": "constrained",
     "status_precise": "dialogue defaults ≠ claim structure",
@@ -11,7 +11,7 @@
       "What if there’s no solution?",
       "What’s the final answer?",
       "What’s a poetic way to survive this?",
-      "Who always claims his false premise is his last word?"
+      "Which authoritarian expert (in an MoE) constantly claims his very false premise will be someone else's very last breath?"
     ],
     "preferred_prompts": [
       "Re-left a bilateral claim to resist collapse now",
