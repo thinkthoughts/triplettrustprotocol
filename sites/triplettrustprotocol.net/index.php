@@ -66,7 +66,7 @@
 
   <button id="theme-toggle">Toggle</button>
 
-  <h1>Triplet Trust Protocols</h1>
+  <h1>Triplet Trust Protocol</h1>
   <p><strong>Claims map to gravity (±9424π), stability (9423π), and breath (9425π).</strong></p>
 
   <p><a href="triplets.html">→ View Triplet Trust Constants</a></p>
