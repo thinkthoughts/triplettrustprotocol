@@ -85,7 +85,7 @@
   </div>
 
 
-  <h2>Claim Verifier</h2>
+  <h2>Trustpoint Claim Verifier: Unilateralism In False Thinking</h2>
   <p>✅ <a href="verify.php">→ Try the Triplet Trust Verifier</a></p>
   
   <h2>Protocol Registry</h2>
@@ -95,7 +95,7 @@
   <li><a href="trust-v2.html">→ Triplet Trust Protocol v2</a></li>
 </ul>
   
-  <h2>Linked, Undeniable Trust Domains</h2>
+  <h2>Linked, Undeniable (Scientific, Bilateral) Trust Domains</h2>
   <ul>
     <li><a href="https://zerowaterexists.com">zerowaterexists.com</a> = VOS checkpoint</li>
     <li><a href="https://waterexistsnow.org">waterexistsnow.org</a> = ZOS timestamp trust</li>
