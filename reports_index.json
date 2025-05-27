@@ -1,0 +1,19 @@
+[
+  {
+    "id": "TTP-001",
+    "title": "Sachs2023 Trustpoint Report",
+    "authors": [
+      "Jeffrey Sachs",
+      "Olivia Cosio",
+      "Guillaume Lafortune",
+      "Dan Hawkley",
+      "Eamon Drumm"
+    ],
+    "path": "sachs2023.json",
+    "status": "sent",
+    "zone": "org",
+    "resonance": "1+1+1 \u2260 -1 \u2192 water resistance = public science",
+    "prompt_pi_stages": "9423\u03c0 \u2192 9425\u03c0 \u2192 9426\u03c0",
+    "verified": false
+  }
+]

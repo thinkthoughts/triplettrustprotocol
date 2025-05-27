@@ -1,0 +1,27 @@
+{
+  "project": "TTP: .net Syndication and .com Collapse Awareness",
+  "columns": [
+    {
+      "name": "\ud83c\udf10 .NET \u2014 Decentralized Development",
+      "cards": [
+        "Publish ttp-reporting.substack.com structure",
+        "Post Sachs2023 md to Bluesky via @triplettrustprotocol.net",
+        "Link Substack/Bluesky in /expression/vss365.json",
+        "Add ai_prompting.json to /expression/",
+        "Draft /expression/foreign_language.json",
+        "Publish multilingual prompt_pi_stages template"
+      ]
+    },
+    {
+      "name": "\ud83c\udfad .COM \u2014 Stylepoint + Collapse Dissonance",
+      "cards": [
+        "Add 'send it \u2260 ship it' to /stylepoint.json",
+        "Record 'collapse metaphors' in /claims.json",
+        "Map 1+1 party recursion in /claims.json",
+        "Add 'false neutrality' label to /expression/style/",
+        "Review all branding claims for recursion/collapse",
+        "Publish .com landing 'Why TTP Is Not A Brand'"
+      ]
+    }
+  ]
+}

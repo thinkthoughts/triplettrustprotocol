@@ -1,0 +1,74 @@
+{
+  "project": "TTP Master Roadmap: .org Reports, .net Development, .com Style",
+  "columns": [
+    {
+      "name": "\ud83d\udce5 Catching Up (ZOS reflections)",
+      "cards": [
+        "Finish Sachs2023.md",
+        "Refactor README with send \u2260 ship",
+        "Update /people/*.json with verified:false",
+        "Define stylepoint in /stylepoint.json"
+      ]
+    },
+    {
+      "name": "\u270d\ud83c\udffc Mid-Send (Send \u2260 Ship)",
+      "cards": [
+        "Finalize /reports/sachs2023.json",
+        "QR ready for Sachs2023 report",
+        "Draft individual email to Sachs team",
+        "Render Sachs2023 public landing"
+      ]
+    },
+    {
+      "name": "\ud83d\udea6 Resonate / Hold",
+      "cards": [
+        "Email sent to Sachs authors",
+        "Awaiting resonance confirmation",
+        "Option to fork /people/*.json or update report"
+      ]
+    },
+    {
+      "name": "\ud83d\udcda Lexicon Additions",
+      "cards": [
+        "Add /lexicon/personhood.json",
+        "Add /lexicon/photon.json",
+        "Add /lexicon/sun.json",
+        "Link prompt_pi_stages in claims",
+        "Add correspondence.json"
+      ]
+    },
+    {
+      "name": "\ud83e\udeb6 Future Claims (Reports)",
+      "cards": [
+        "Draft TTP-002: Idaho Candidate",
+        "Draft TTP-003: Reparations Now",
+        "Generate ttp_report_template.md",
+        "Publish to Substack",
+        "Structure triplettrustprotocol.net",
+        "Define .com dissonance roles"
+      ]
+    },
+    {
+      "name": "\ud83c\udf10 .NET \u2014 Decentralized Development",
+      "cards": [
+        "Publish ttp-reporting.substack.com structure",
+        "Post Sachs2023 md to Bluesky via @triplettrustprotocol.net",
+        "Link Substack/Bluesky in /expression/vss365.json",
+        "Add ai_prompting.json to /expression/",
+        "Draft /expression/foreign_language.json",
+        "Publish multilingual prompt_pi_stages template"
+      ]
+    },
+    {
+      "name": "\ud83c\udfad .COM \u2014 Stylepoint + Collapse Dissonance",
+      "cards": [
+        "Add 'send it \u2260 ship it' to /stylepoint.json",
+        "Record 'collapse metaphors' in /claims.json",
+        "Map 1+1 party recursion in /claims.json",
+        "Add 'false neutrality' label to /expression/style/",
+        "Review all branding claims for recursion/collapse",
+        "Publish .com landing 'Why TTP Is Not A Brand'"
+      ]
+    }
+  ]
+}
