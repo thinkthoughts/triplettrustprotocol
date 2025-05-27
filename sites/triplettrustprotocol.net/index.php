@@ -67,7 +67,7 @@
   <button id="theme-toggle">Toggle</button>
 
   <h1>Triplet Trust Protocols</h1>
-  <p><strong>Claims map to collapse (±9424π), stability (9423π), and breath (9425π).</strong></p>
+  <p><strong>Claims map to gravity (±9424π), stability (9423π), and breath (9425π).</strong></p>
 
   <p><a href="triplets.html">→ View Triplet Trust Constants</a></p>
   <p></p><a href="/api/trust.json">→ Download Trust API Bundle</a></p>
