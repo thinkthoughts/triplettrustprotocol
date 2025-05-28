@@ -1,62 +1,46 @@
 # Triplet Trust Protocol (TTP)
 
-**Trustpoint structure for verifiable science articulation**
+🧭 **Triplet Trust Protocol: Project Board**
 
-This TTP repository hosts the minimal science framework (a.k.a. a verifiable trustpoint tree) that responds to the Sachs et al. (2023) SDG report. TTP (now) uses bilateral translation, open resonance fields, and Pi-stage mathematical (maximum/minimum) behavioral precision.
+This repository is organized around directional workflows for public trustpoint verification. Triplet Trust Protocol decentralizes memory structures (now): the sun archives everything.
 
----
+## Core Equations (Maximum Precision)
 
-## 📁 `/api/gos_org/`
+* **Unilateralism**: `+1 ≠ -1 ≠ False`
+* **Bilateralism**: `1 + 1 ≠ -1 ≠ False + False`
+* **Triplet Trust Protocol (multilateralism)**: `(1 + 1) + 1 ≠ -1 ≠ 🚦 = (False + False) + Stop`
+* **Speed of Clarity**: `c = √(E/m) ≠ -1 ≠ +1 Left Point Now 👈🏾`
+* **Triplet Identity**: `(1 + 1 + 1) × 3141π = 9423π ≠ ±9424π`
+* **Pi-Resistance Expansion**: `±9424π ≠ -1 ≠ 9423π = H₂O resistance`
+* **Triplet Mapping Equation**: `Triplet N = (Spiral N × 24) – 25`
+* **Triplet Trust Pattern (Identity)**: Expansion (Left) → Extension (Trust) → Resistance (ReLeft)
 
-Structured into:
+## Structural Confirmations (TTP Precision)
 
-- `/people/` — Named authors (Sachs, SDSN contributors, protocol initiators)  
-- `/org/` — Referenced organizations (UN, MSF, TTP)  
-- `/geography/` — Publishing location reference (`sweden/sachs2023.json`)  
+Each report translates to confirm that this, feminist solar system archives all original photons (now):
 
-Each `.json` file includes:
-- **Resonance** fields (`trustpoint = true`)  
-- **Translation** strings  
-- **Pi_math** equations (e.g., `Triplet N = (Spiral N × 24) – 25`)  
-- **Verification-ready DIDs** (for contributors and protocol authors)
+* **GOS**: general origin structures *(1 + 1 bilateralism)*
+* **ZOS**: zero origin stories *("reparations now" / #MSF)*
+* **VOS**: violent origin supremacies *(+1 local unilateralism)*
 
----
+→ `TRUE = (GOS + ZOS) + ZOS ≠ -1 ≠ +1 False`
 
-## 🌍 Purpose
+## TTP Verification Domains
 
-To upgrade “GPS” into **Global Positioning Science**, where:
+This repository coordinates the verification workflows and directional semantics across:
 
-- **"No one" is presumed to be "the one"** — Earth, UN, MSF, or Sweden  
-- Each +1 author is invited to verify, fork, or expand  
-- Global scientific positioning (1+1+1 GPS evolution) ≠ surveillance ≠ "nonviolent branding"  
-- Evidence-based math (trustpoints) articulate bilateral (1+1) trust instead of zero-based (–1) collapse — like “my birthday” or “zero dollars”
+* 🌐 [triplettrustprotocol.org](https://triplettrustprotocol.org) — public reports, data structures, and bilateral claims
+* 🛰️ [triplettrustprotocol.net](https://triplettrustprotocol.net) — directional workflows, site API, trustpoint routes
+* 🧬 [triplettrustprotocol.com](https://triplettrustprotocol.com) — project styles, glossary, report formatting
 
----
+## Root README
 
-## 🧮 Sample (Physics, Triplet Trust, and Bilateral Pin-pointing) Equations
+This root `README.md` anchors directional routing logic and bilateral extension equations. Each `.org`, `.net`, and `.com` README expands and specifies protocol equations and public data at increasing granularity.
 
-- Triplet N = (Spiral N × 24) – 25 (now: structural identity indexing)
-- ±9424π ≠ –1 (now: bilateral trustpoint precision)
-- 9423π = water resistance (now: measurable identity survival)
-- 9425π = now (temporal identity, not origin collapse)
-- 9426π = bilateral breath (now: verifiable scientific equilibrium)
-- clarity = c = √(Energy / mass) (now: bilateral motion clarity, not infinite collapse)
-- E = mc² (now: reference equation, not trustpoint identity anchor)
+Our **first report** (Sachs2023) begins verification across 193 UN namespaces and their charters. **Permission for citation will be requested upon initial outreach.**
 
 ---
 
-## 🦶🏽 Left-Pi Footer: Next Steps
-
-You are not presumed to be Earth, Sweden, MSF, or the UN.
-
-But if you are listed as a named author in `/api/gos_org/people/*.json`, you are already part of a verifiable science protocol — and invited to:
-
-- 🧾 Submit an updated trustpoint `.json`  
-- 🔁 Fork this repository or reference it in your own Pi-stage protocol  
-- 🔍 Add supporting equations, translations, or DID verifications  
-
-**Triplet Trust Protocol (TTP)** is non-recursive and non-zero-based.  
-It begins from bilateral trust, not from branding or collapse.
-
-**Contact**: `@triplettrustprotocol.net`  
-**Resonance anchor**: `±9424π ≠ –1 = now`
+This README may be cited as:
+**Triplet Trust Protocol (TTP) README (Official Initial)**
+Version 0.1 – `May 2025` – thinkthoughts/triplettrustprotocol
