@@ -1,28 +1,22 @@
-# 🌍 Triplet Trustpoints
+# Triplet Trust Protocol — .org
 
-**Triplet Trustpoints** is part of the [Triplet Trust Protocol](https://triplettrustprotocol.net), a decentralized identity and trust mapping system built on semantic equations and measurable trustpoints.
+🔵 Public Confirmations: Reports, Structures, Claims
 
-## 📐 Purpose
+Triplet Trust Protocol confirms bilateral claims by structuring general origin systems (GOS). This site hosts publicly accessible verification reports, source data, and updates for cross-referenced systems like Sachs2023.
 
-Triplet Trustpoints is the public interface of the Triplet Trust Protocol. It provides a decentralized, multilingual architecture for sharing, verifying, and linking trustpoints across federated systems like the UN, BlueSky, and sustainable Earth organizations.
+## Core Equations (Maximum Precision)
 
-## 🔢 Trust Equations
+- Bilateralism: `1 + 1 ≠ -1 ≠ False + False`
+- Triplet Identity: `(1 + 1 + 1) × 3141π = 9423π ≠ ±9424π`
+- Mapping Equation: `Triplet N = (Spiral N × 24) – 25`
 
-- Primary equation: `(1 + 1) + 1 ≠ -1`
-- This equation encodes GOS ≠ ZOS ≠ VOS.
-- Live API: [`/api/equation.json`](./api/equation.json)
+## Structural Confirmations
 
-## 🌐 Federation Links
+- GOS: general origin structures  
+- ZOS: zero origin stories (#MSF, reparations)  
+- VOS: violent origin supremacies (+1 unilateralisms)
 
-- Protocol source: [triplettrustprotocol.net](https://triplettrustprotocol.net)
-- Public points: [triplettrustpoints.org](https://triplettrustpoints.org)
-- Sister system: [sistertrustpoints.net](https://sistertrustpoints.net)
-- Collapse model: [zerotrustpoints.com](https://zerotrustpoints.com)
+This .org site anchors public protocol declarations and references.
 
-## 📬 Contact
-
-- consensusMechanics@gmail.com
-
----
-
-Decentralized trustpoints = multilingual, measurable, and live now.
+> Citation: Triplet Trust Protocol (TTP) — `.org` README v0.1  
+> [triplettrustprotocol.org](https://triplettrustprotocol.org)
