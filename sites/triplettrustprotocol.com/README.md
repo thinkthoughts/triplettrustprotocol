@@ -1,28 +1,22 @@
-# 🌍 Zero Trustpoints
+# Triplet Trust Protocol — .com
 
-**Zero Trustpoints** is part of the [Triplet Trust Protocol](https://triplettrustprotocol.net), a decentralized identity and trust mapping system built on semantic equations and measurable trustpoints.
+🧬 Terminology: Glossary, Formats, Styles
 
-## 📐 Purpose
+This .com implementation holds trusted project styles, formatting references, and vocabularies for cross-site clarity. It supports reporters, scientists, and developers referencing shared meanings.
 
-Zero Trustpoints identifies and resists coercive, collapsing, or supremacist systems. It mirrors recursive failure, enabling detection, contrast, and refusal of violent-origin logic through structural trust equations.
+## Key Equations and Structures
 
-## 🔢 Trust Equations
+- Unilateralism: `+1 ≠ -1`
+- Bilateralism: `1 + 1 ≠ -1`
+- Multilateralism: `(1 + 1) + 1 ≠ -1 ≠ 🚦`
 
-- Primary equation: `(1 + 1) + 1 ≠ -1`
-- This equation encodes GOS ≠ ZOS ≠ VOS.
-- Live API: [`/api/equation.json`](./api/equation.json)
+## Formatting Standards
 
-## 🌐 Federation Links
+- Glossary: Trustpoint Terminology
+- Data Shape Templates
+- Report Citation Guide
 
-- Protocol source: [triplettrustprotocol.net](https://triplettrustprotocol.net)
-- Public points: [triplettrustpoints.org](https://triplettrustpoints.org)
-- Sister system: [sistertrustpoints.net](https://sistertrustpoints.net)
-- Collapse model: [zerotrustpoints.com](https://zerotrustpoints.com)
+This style domain supports editorial transparency and formatting symmetry across all reports and equations.
 
-## 📬 Contact
-
-- consensusMechanics@gmail.com
-
----
-
-Decentralized trustpoints = multilingual, measurable, and live now.
+> Citation: Triplet Trust Protocol (TTP) — `.com` README v0.1  
+> [triplettrustprotocol.com](https://triplettrustprotocol.com)
