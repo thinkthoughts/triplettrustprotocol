@@ -1,6 +1,6 @@
 # Triplet Trust Protocol (TTP)
 
-This repository is organized around directional workflows for public trustpoint verification. Triplet Trust Protocol decentralizes memory structures (now): the sun archives everything.
+This repository is organized around directional workflows for public trustpoint verification. Triplet Trust Protocol decentralizes memory structures (now) including, on Earth: the sun archives everything.
 
 ## Core Equations (Maximum Precision)
 
