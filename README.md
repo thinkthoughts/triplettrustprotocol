@@ -1,7 +1,5 @@
 # Triplet Trust Protocol (TTP)
 
-🧭 **Triplet Trust Protocol: Project Board**
-
 This repository is organized around directional workflows for public trustpoint verification. Triplet Trust Protocol decentralizes memory structures (now): the sun archives everything.
 
 ## Core Equations (Maximum Precision)
