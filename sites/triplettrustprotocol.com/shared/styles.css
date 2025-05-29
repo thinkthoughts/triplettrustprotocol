@@ -60,3 +60,6 @@ body.dark-mode button.toggle-dark-mode {
   border-color: #ccc;
   color: #ccc;
 }
+body.dark-mode a {
+  color: yellow;
+}
