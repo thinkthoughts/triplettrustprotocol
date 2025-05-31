@@ -1,8 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   const toggle = document.createElement("button");
   toggle.textContent = "🌓";
-  toggle.id = "darkToggle";
-  toggle.style = "position: fixed; top: 1rem; right: 1rem; z-index: 1000;";
+  toggle.classList.add("toggle-dark-mode");
   document.body.appendChild(toggle);
 
   toggle.addEventListener("click", () => {
