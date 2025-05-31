@@ -6,23 +6,38 @@ body {
   max-width: 800px;
   margin: auto;
   padding: 2rem;
-  line-height: 1.6;
+  line-height: 1.8;
+  font-size: 1.2rem; /* Increased from default for readability */
 }
 
-h1, h2, h3 {
+h1 {
   color: #2d2d86;
+  font-size: 2.2rem; /* Larger heading */
+  margin-top: 2.5rem;
+}
+
+h2 {
+  color: #2d2d86;
+  font-size: 1.8rem;
   margin-top: 2rem;
+}
+
+h3 {
+  color: #2d2d86;
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
 }
 
 code {
   background: #eee;
-  padding: 0.2rem 0.4rem;
+  padding: 0.2rem 0.5rem;
   border-radius: 4px;
   font-family: monospace;
+  font-size: 1rem;
 }
 
 section {
-  margin-bottom: 2rem;
+  margin-bottom: 2.5rem;
 }
 
 /* Dark mode styles */
@@ -49,10 +64,10 @@ button.toggle-dark-mode {
   z-index: 1000;
   background: transparent;
   border: 1px solid #999;
-  padding: 0.5rem;
+  padding: 0.6rem 1rem;
   border-radius: 5px;
   cursor: pointer;
-  font-size: 0.9rem;
+  font-size: 1rem; /* Slightly larger button text */
 }
 
 body.dark-mode button.toggle-dark-mode {
